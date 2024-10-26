@@ -14,10 +14,3 @@ php artisan make:factory CategoryFactory
 php artisan make:seeder CategoriesTableSeeder
 php artisan db:seed
 
-
-
-Li19ToN^88
-
-Li19ToN√88
-
-Li19Ton^88
