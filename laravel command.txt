@@ -1,0 +1,23 @@
+php artisan make:model Company -mc
+
+php artisan make:migration create_flights_table
+
+php artisan migrate
+
+php artisan make:migration
+
+php artisan make:model -mrc Chirp
+
+php artisan make:controller UserController
+
+php artisan make:factory CategoryFactory
+php artisan make:seeder CategoriesTableSeeder
+php artisan db:seed
+
+
+
+Li19ToN^88
+
+Li19ToN√88
+
+Li19Ton^88
